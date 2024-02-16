@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cocacola",
+        "precio": 2000
+
+    },
+    {
+        "id": 2,
+        "nombre": "Laptop",
+        "precio": 1000
+    
+
+    },
+    {
+        "id": 3,
+        "nombre": "aguamarina",
+        "precio": 3000
+    
+
+    },
+    {
+        "id": 4,
+        "nombre": "pepopoti",
+        "precio": 4000
+    
+
+    }
+
+    
+   ]

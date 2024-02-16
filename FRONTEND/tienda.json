@@ -1,0 +1,54 @@
+{
+  "productos": [
+    {
+      "nombre": "Fantaaaaaa",
+      "precio": "20",
+      "id": "2"
+    },
+    {
+      "id": "eae5",
+      "nombre": "NUEVO",
+      "precio": "1234"
+    },
+    {
+      "id": "cb0a",
+      "nombre": "",
+      "precio": ""
+    },
+    {
+      "nombre": "pipsa",
+      "precio": "122",
+      "id": "db7b"
+    },
+    {
+      "id": "6b7b",
+      "nombre": "pizza",
+      "precio": "6"
+    },
+    {
+      "id": "8503",
+      "nombre": "",
+      "precio": ""
+    },
+    {
+      "id": "c048",
+      "nombre": "yahoo",
+      "precio": "1000000000000000000000000"
+    },
+    {
+      "id": "7e1a",
+      "nombre": "",
+      "precio": ""
+    },
+    {
+      "id": "ab55",
+      "nombre": "",
+      "precio": ""
+    },
+    {
+      "nombre": "",
+      "precio": "",
+      "id": "a60e"
+    }
+  ]
+}
